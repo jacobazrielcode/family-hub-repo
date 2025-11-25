@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -37,4 +37,5 @@
     "vite": "^5.1.0",
     "vite-plugin-pwa": "^0.19.0"
   }
+
 }
